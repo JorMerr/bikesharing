@@ -28,5 +28,12 @@ The above heatmap further analyzes the gender breakdown of the previous heatmap.
 Further analysis of the volume of trips per hour and gender is seen above to indicate User Types: Subscribers, or one-time Customers. The heatmap shows that the majority of users are Subscribers, meaning that Citibike users who opt for the subscription serivce model in order to secure and utilize bicycles are more likely to continue using Citibike services, while one-time users make up a smaller portion of client base.
 
 ## Summary
-Initial findings of the statistical analysis show that the majority of trips are less than 30 minutes in duration. This suggests bicycle pick up and drop off locations must be created with length of trip duration in mind. The peak trip duration of all users is approximately 5 minutes. This means that many, smaller locations for start and end of bicycle trips will be preferable in order to effectively service users in Des Moines. It is recommended to create visualization of trip start and end locations, and total distance travelled between to determine the most optimal distances between pick up locations in Des Moines.
-Additionally, plotting the total distance between start and end locations against the total time per trip may reveal that some users pick up from central Citibike locations, use the bicycle for errands, and return to the same location. It may be prudent to determine how many users pick up and drop off from the same location to assist in determining the recommended number of bicycles to have on hand at popular pick up locations in Des Moines.
+Initial findings of the statistical analysis show that the majority of trips are less than 30 minutes in duration. This suggests bicycle pick up and drop off locations must be created with length of trip duration in mind. 
+
+The peak trip duration of all users is approximately 5 minutes. This means that many, smaller locations for start and end of bicycle trips will be preferable in order to effectively service users in Des Moines. 
+
+It is recommended to create visualization of trip start and end locations, and total distance travelled between to determine the most optimal distances between pick up locations in Des Moines.
+
+Additionally, plotting the total distance between start and end locations against the total time per trip may reveal that some users pick up from central Citibike locations, use the bicycle for errands, and return to the same location. 
+
+It may be prudent to determine how many users pick up and drop off from the same location to assist in determining the recommended number of bicycles to have on hand at popular pick up locations in Des Moines.
